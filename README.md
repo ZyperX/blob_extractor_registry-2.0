@@ -3,4 +3,7 @@ blobs extractor for registry/2.0
 
 Usage: buggy but works fine
 
+Requirements:
+            * chmod a+x downloader.sh 
+
 References:-https://www.notsosecure.com/anatomy-of-a-hack-docker-registry/
