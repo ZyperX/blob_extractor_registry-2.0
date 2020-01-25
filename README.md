@@ -3,8 +3,9 @@ blobs extractor for registry/2.0
 
 Usage: buggy but works fine
 
-Requirements:
-            * chmod a+x downloader.sh 
+Requirements: Executable Permission
+
+   <b>chmod a+x downloader.sh </b>  
 
 References:-https://www.notsosecure.com/anatomy-of-a-hack-docker-registry/
 
